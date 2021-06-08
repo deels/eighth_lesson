@@ -5,7 +5,6 @@
 
 def oops():
     raise IndexError
-    return
 
 def second_oops():
     try:
